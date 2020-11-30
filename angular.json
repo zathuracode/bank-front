@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "bank-front"
+  "defaultProject": "bank-front",
+  "cli": {
+    "analytics": false
+  }
 }
